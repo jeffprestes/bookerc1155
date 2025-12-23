@@ -1,0 +1,99 @@
+{
+  "name": "De Officiis - Marcus Tullius Cicero - Edition #1",
+  "description": "This digital token (NFT) certifies ownership of Edition #1 of Marcus Tullius Cicero's masterwork 'De Officiis' (On Duties). De officiis libri tres / Marcus Tullius Cicero; textum recensuit, praefatione et adnotationibus instruxit - Editio Nova. – Lutetiae Parisiorum: Ex Officina Litterae Classicae, IVIII. A foundational work of Western moral philosophy exploring the concepts of duty, virtue, and ethical conduct.",
+  "image": "https://jeffprestes.github.io/bookerc1155/book-cover.png",
+  "external_url": "https://jeffprestes.github.io/bookerc1155/",
+  "background_color": "2C1810",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Marcus Tullius Cicero"
+    },
+    {
+      "trait_type": "Title",
+      "value": "De Officiis (On Duties)"
+    },
+    {
+      "trait_type": "Edition Number",
+      "value": 1,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Item Number",
+      "value": 1,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Latin"
+    },
+    {
+      "trait_type": "Publisher",
+      "value": "Ex Officina Litterae Classicae"
+    },
+    {
+      "trait_type": "Place of Publication",
+      "value": "Lutetiae Parisiorum (Paris)"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Philosophia Moralis"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Ethica Romana"
+    },
+    {
+      "trait_type": "Topic",
+      "value": "Officium - Ratio et Via"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Humanitas"
+    },
+    {
+      "trait_type": "Literary Period",
+      "value": "Classical Roman"
+    },
+    {
+      "trait_type": "Original Date",
+      "value": "44 BC"
+    },
+    {
+      "trait_type": "Book Type",
+      "value": "Philosophical Treatise"
+    },
+    {
+      "trait_type": "Volumes",
+      "value": 3,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "First Edition"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-1155"
+    },
+    {
+      "trait_type": "Collectible Type",
+      "value": "Rare Book Certificate"
+    }
+  ],
+  "properties": {
+    "category": "book",
+    "creators": [
+      {
+        "name": "Marcus Tullius Cicero",
+        "role": "Author"
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://jeffprestes.github.io/bookerc1155/book-cover.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
